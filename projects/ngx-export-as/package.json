@@ -1,6 +1,6 @@
 {
-  "name": "ngx-export-as",
-  "version": "1.16.0",
+  "name": "@vuletopicus/ngx-export-as",
+  "version": "1.16.1",
   "license": "MIT",
   "private": false,
   "dependencies": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wnabil/ngx-export-as.git"
+    "url": "git+https://github.com/vuletopicus/ngx-export-as.git"
   },
   "keywords": [
     "angular",
@@ -31,7 +31,7 @@
   ],
   "author": "Wassem Nabil <w.nabil@orangestudio.com> (https://qapas.com)",
   "bugs": {
-    "url": "https://github.com/wnabil/ngx-export-as/issues"
+    "url": "https://github.com/vuletopicus/ngx-export-as/issues"
   },
-  "homepage": "https://github.com/wnabil/ngx-export-as#readme"
+  "homepage": "https://github.com/vuletopicus/ngx-export-as#readme"
 }

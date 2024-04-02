@@ -197,3 +197,6 @@ const exportAsConfig: ExportAsConfig = {
 
 - **1.16.0**
   - Angular 16
+
+- **1.16.1**
+  - Babel critical vulnerability fix via 'npm audit fix'
